@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/04/09 14:44:14.513,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/04/09 14:44:15.349,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/04/09 14:45:09.967,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/04/09 14:45:29.485,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\CSMemoria.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/04/09 14:45:29.485,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\CSMemoria.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/04/09 14:45:40.251,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\main.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/04/09 14:49:58.866,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MemoriaTarea\main.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\main.cpp</Transaction>
+    <Transaction>2023/04/09 14:50:10.341,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MemoriaTarea\CSMemoria.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\CSMemoria.h</Transaction>
+    <Transaction>2023/04/09 14:50:10.341,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MemoriaTarea\CSMemoria.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\CSMemoria.cpp</Transaction>
+    <Transaction>2023/04/09 14:50:41.996,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MemoriaTarea\Project1PCH1.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/04/09 14:50:44.221,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\MemoriaTarea\Project1.cbproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

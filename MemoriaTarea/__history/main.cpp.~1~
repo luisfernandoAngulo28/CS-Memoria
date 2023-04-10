@@ -1,0 +1,21 @@
+#include <iostream>
+#include "CSMemoria.h"
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char** argv) {
+	CSMemoriakeor *MiMemkeor = new CSMemoriakeor();
+	int x = MiMemkeor->new_espacio("uno");
+	MiMemkeor->poner_dato(x, "->uno",100);
+	int y = MiMemkeor->new_espacio("dos");
+	MiMemkeor->delete_espacio(x);
+	int z = MiMemkeor->new_espacio("karol.esthefany.ortiz.rocha");
+	MiMemkeor->poner_dato(z,"->karol",MiMemkeor->obtenerDato(z, "->karol")+77);
+	MiMemkeor->mostrar_memoria();
+	MiMemkeor->poner_dato(z,"->karol", MiMemkeor->obtenerDato(z,"->karol")-2);
+	MiMemkeor->mostrar_memoria();
+
+
+	return 0;
+}
+
